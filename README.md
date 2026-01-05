@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveena Advani</h1>
 
-- 🌱 I’m currently learning **Backend Tools**
+- 🌱 I’m currently learning **Full Stack Development & Python**
 
 - 📫 How to reach me **naveenaadvani@gmail.com**
 
